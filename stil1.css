@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+
+p {
+	text-align: center;
+	color: seashell;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	padding: 20px;
+}
+.liste{
+text-align: left;
+  width: 50%;
+  padding: 10px;
+}
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px #53009D;
+  padding: 10px;
+}
+span {color: rgb(255,0,255);}
+.pozadina{
+	background-image: url("galerija/pozadina 1.jpg" );
+	background-color: darkcyan;
+	background-size: cover;
+}
+.novi_blok {
+	background-color: rgba(27,152,247,0.05);
+	color: darkorchid;
+}
+h1{
+	text-align: center;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	color: rgba(72,12,116,1.00);
+	font-size: 45px;
+	padding: 20px;
+	margin: 10px;
+	width: 40;
+}
+h2{
+	text-align: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: rgba(72,12,116,1.00);
+	font-size: 20px;
+	padding: 20px;
+	margin: 10px;
+	width: 40;
+}
+a:link {
+	align: center;
+	background-color: darkorchid;
+	padding: 5px;
+	line-height: 40px;
+}
+img{
+	margin: auto;
+	align-content: center;
+	height: 200px;
+	border: groove; border-color: antiquewhite;border-spacing: 50px;
+	
+}
